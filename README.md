@@ -169,7 +169,7 @@ We welcome contributions! Please open an issue or pull request for any improveme
 
 This project is licensed under the- 
 MIT License  
-Copyright (c) 2025 [22-488123-3@student.aiub.edu]
+Copyright (c) 2025 [22-48812-3@student.aiub.edu]
 
 ---
 
