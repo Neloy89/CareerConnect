@@ -1,0 +1,14 @@
+.company-card {
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.company-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px) scale(1.02);
+}
+.company-card .company-location-label {
+  font-weight: bold;
+}
+.company-card .company-employee-label,
+.company-card .company-openposition-label {
+  font-weight: bold;
+}

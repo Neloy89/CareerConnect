@@ -1,0 +1,33 @@
+/* Footer */
+footer {
+    background-color: white;
+    padding: 30px 0;
+    margin-top: 50px;
+    border-top: 1px solid var(--gray);
+}
+
+.footerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerLinks {
+    display: flex;
+    gap: 20px;
+}
+
+.footerLinks a {
+    text-decoration: none;
+    color: var(--secondary);
+    transition: color 0.3s;
+    cursor: pointer;
+}
+
+.footerLinks a:hover {
+    color: var(--primary);
+}
+
+.copyright {
+    color: var(--secondary);
+}
